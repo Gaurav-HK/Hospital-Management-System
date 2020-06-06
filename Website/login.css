@@ -1,0 +1,63 @@
+html
+	{ 
+	background:url(images/bgg.png) repeat-x 
+	}	
+
+#middle {
+	
+	background:#03aacc;
+	position:relative;
+    	margin-bottom: 150px;
+	margin-top: 10px;
+    	width :960px;
+    	margin-left: 350px;
+	padding: 1px;
+	border: 3px solid #03aacc;
+	border-radius: 25px;
+	height: 750px;
+        
+	}
+
+#fadeshow1{
+         
+    	margin-top: 80px;
+    	margin-right: 350px;
+    	margin-left: 350px;
+        border-radius: 25px;
+        width: 800px;
+	}
+
+#nav {
+        
+     	margin-right: 350px;
+    	margin-left: 350px;
+      float: center;
+width:1000px;
+      float:bottom;
+      padding: 0;
+      list-style: none;
+      background-color: #f2f2f2;
+      border-bottom: 1px solid #ccc; 
+      border-top: 1px solid #ccc; }
+   #nav li {
+      float: left; }
+   #nav li a {
+      display: block;
+      padding: 8px 15px;
+      text-decoration: none;
+      font-weight: bold;
+      color: #069;
+      border-right: 1px solid #ccc; }
+   #nav li a:hover {
+      color: #c00;
+      background-color: #fff; }
+   #footer {
+      width: 100%;
+      float: left;
+      margin: 10px;
+}
+	form {
+		text-align:center;
+}
+
+   
